@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Tatyana Peryakina! 👋
+
+I'm ML-Engineer
 
 <!--
 **Tatka-19/Tatka-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
