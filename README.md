@@ -7,6 +7,8 @@
 
 🔭 I'm currently looking for a job in CV and NLP
 
+🌱 I’m currently working on projects in Yandex.Masterskaya 
+
 🌍 I speak English
 
 ### Languages and Tools:
